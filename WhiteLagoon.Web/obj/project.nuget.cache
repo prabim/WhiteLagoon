@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PYSvFw6UIieo5Ris1xz4o4p+Ekpj1GE6MhT5KB+nXuJIl2BRcMIq7kiJ9xf/CCDbfZBmu0GUarFTPaP2PgZr9g==",
+  "dgSpecHash": "FRicQY/wTgbx07Pqv4fTgEEzjO7zSWwy75JRif2QgHoU6EK7yP3TTc/RgkgCVg+dIPlYXO5HD/vNCJyIbMAF2A==",
   "success": true,
-  "projectFilePath": "D:\\TestProjects\\WhiteLagoon.Web\\WhiteLagoon.Web\\WhiteLagoon.Web.csproj",
+  "projectFilePath": "D:\\TestProjects\\WhiteLagoon\\WhiteLagoon.Web\\WhiteLagoon.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
